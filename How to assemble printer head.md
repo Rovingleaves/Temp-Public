@@ -55,14 +55,14 @@
 ## **Station 5**
 
 1. Take the Station 4 assembly and connect:  
-   (①) 28P flat cable to CN1, (②) mechanism connection cable to CN3, (③) 7P connection cable to CN7 on the connection board.  
+   (1) 28P flat cable to CN1, (2) mechanism connection cable to CN3, (3) 7P connection cable to CN7 on the connection board.  
    ![Step5_1](images/Step5_1.jpg)
 2. Flip the assembly over and confirm that the mechanism positioning pin fits into the hole on the connection board. Fasten 2 black screws below the hole.  
    *(Torque: 3.2 kgf-cm / upper-lower limit: 3~3.4 kgf-cm)*  
    ![Step5_2](images/Step5_2.jpg)
 3. Stand the mechanism assembly upright, place the black plastic knob over the blue rotary knob on the assembly, and fasten 1 black round-head self-tapping screw.  
    *(Torque: 3.2 kgf-cm / upper-lower limit: 3~3.4 kgf-cm)*  
-   ![Step5_3](images/Step5_3.jpg)
+   ![Step5_3a](images/Step5_3a.jpg)![Step5_3b](images/Step5_3b.jpg)
 
 ---
 
