@@ -152,12 +152,14 @@
 
 ## **Station 13**
 
-1. Route the cutter cable along the frame edge in an L-shape and connect it to CN5 on the connection board. Insert the cable into the frame.  
+1. Route the cutter cable along the frame edge and connect it to CN5 on the connection board. Insert the cable into the frame.  
    ![Step13_1](images/Step13_1.jpg)
 2. Route the 7P signal cable out through the "b" notch.  
-   ![Step13_2](images/Step13_2.jpg)
+   ![Step13_2a](images/Step13_2a.jpg)
+   ![Step13_2b](images/Step13_2b.jpg)
 3. Pass the cutter sensor cable (red, white, yellow) through the "a" notch, then out the "b" notch. Finally, insert the transparent Mylar sheet into the mechanism frame.  
-   ![Step13_3](images/Step13_3.jpg)
+   ![Step13_3a](images/Step13_3a.jpg)
+   ![Step13_3b](images/Step13_3b.jpg)
 
 ---
 
