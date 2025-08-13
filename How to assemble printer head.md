@@ -36,16 +36,16 @@
    Left: ![Step3_3_left](images/Step3_3_left.jpg)
 
    Right: ![Step3_3_right](images/Step3_3_right.jpg)
-   
+
    Complete: ![Step3_3](images/Step3_3.jpg)
 
 ---
 
 ## **Station 4**
 
-1. (①) Arrange the mechanism wires neatly and secure with a cable tie. (②) Use cloth with alcohol to clean the cutter mechanism mounting bracket.  
+1. (1) Arrange the mechanism wires neatly and secure with a cable tie. (2) Use cloth with alcohol to clean the cutter mechanism mounting bracket.
    ![Step4_1](images/Step4_1.jpg)
-2. Take the wire cover Mylar sheet, peel off the backing adhesive, and (①) align it to the far left side of the metal bracket. (②) Align with the crease and tooth cutouts on the Mylar sheet, then press flat.  
+2. Take the wire cover Mylar sheet, peel off the backing adhesive, and (1) align it to the far left side of the metal bracket. (2) Align with the crease and tooth cutouts on the Mylar sheet, then press flat.  
    ![Step4_2](images/Step4_2.jpg)
 3. Peel off the transparent protective film from the Mylar sheet.  
    ![Step4_3](images/Step4_3.jpg)
