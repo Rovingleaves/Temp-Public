@@ -16,11 +16,11 @@
 
 ## **Station 2**
 
-1. Remove the SENSOR board from the mechanism completed in Station 1.  
+1. Remove the sensor board from the mechanism completed in Station 1.  
    ![Step2_1](images/Step2_1.jpg)
-2. Remove the black protective cover from the SENSOR board.  
+2. Remove the black protective cover from the sensor board.  
    ![Step2_2](images/Step2_2.jpg)
-3. Using the 2 screws from the SENSOR board, mount the SENSOR board onto the paper guide plate.  
+3. Using the 2 screws from the sensor board, mount the sensor board onto the paper guide plate.  
    ![Step2_3a](images/Step2_3a.jpg)![Step2_3b](images/Step2_3b.jpg)
 
 ---
@@ -29,10 +29,12 @@
 
 1. Cut a 2 cm length of cotton tape and use it to secure the 9 mechanism wires from the Station 2 assembly at the indicated position.  
    ![Step3_1](images/Step3_1.jpg)
-2. (①) Insert the 28P flat cable with the copper foil side facing the slot contacts. (②) Route the SENSOR wires (blue, green, purple) into the left-side groove as indicated by the dashed line.  
+2. (1) Insert the 28P flat cable with the copper foil side facing the slot contacts. (2) Route the sensor wires (blue, green, purple) into the left-side groove as indicated by the arrow.
    ![Step3_2](images/Step3_2.jpg)
-3. (①) Further route the SENSOR wires (blue, green, purple) into the long rib column. (②) Align the paper guide plate with the left and right positioning holes on the mechanism, then press down, ensuring not to pinch the SENSOR wires.  
-   ![Step3_3](images/Step3_3.jpg)
+3. (1) Further route the sensor wires (blue, green, purple) into the long rib column. (2) Align the paper guide plate with the left and right positioning holes on the mechanism, then press down, ensuring not to pinch the sensor wires.  
+   Left: ![Step3_3_left](images/Step3_3_left.jpg)
+   Right: ![Step3_3_right](images/Step3_3_right.jpg)
+   Complete: ![Step3_3](images/Step3_3.jpg)
 
 ---
 
@@ -70,12 +72,12 @@
 
 ## **Station 7**
 
-1. Following the diagram, mount the SENSOR board onto the cutter frame bracket with 2 flat-head screws.  
+1. Following the diagram, mount the sensor board onto the cutter frame bracket with 2 flat-head screws.  
    *(Torque: 3.2 kgf-cm / upper-lower limit: 3~3.4 kgf-cm)*  
    ![Step7_1](images/Step7_1.jpg)
-2. Route the SENSOR cable over the variable resistor and screw hole, along the frame edge to the lower left corner.  
+2. Route the sensor cable over the variable resistor and screw hole, along the frame edge to the lower left corner.  
    ![Step7_2](images/Step7_2.jpg)
-3. Using 2–3 cm cotton tape, secure the SENSOR cable to the right-angle edge of the bracket as shown.  
+3. Using 2–3 cm cotton tape, secure the sensor cable to the right-angle edge of the bracket as shown.  
    ![Step7_3](images/Step7_3.jpg)
 
 ---
@@ -139,7 +141,7 @@
    ![Step13_1](images/Step13_1.jpg)
 2. Route the 7P signal cable out through the "b" notch.  
    ![Step13_2](images/Step13_2.jpg)
-3. Pass the cutter SENSOR cable (red, white, yellow) through the "a" notch, then out the "b" notch. Finally, insert the transparent Mylar sheet into the mechanism frame.  
+3. Pass the cutter sensor cable (red, white, yellow) through the "a" notch, then out the "b" notch. Finally, insert the transparent Mylar sheet into the mechanism frame.  
    ![Step13_3](images/Step13_3.jpg)
 
 ---
