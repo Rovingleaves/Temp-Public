@@ -177,7 +177,9 @@
 
 1. Install the Station 14 assembly onto the Station 13 assembly, aligning the left and right screw holes on the bracket. Secure with 2 countersunk machine screws.  
    *(Torque: 3.2 kgf-cm / upper-lower limit: 3~3.4 kgf-cm)*  
-   ![Step15_1](images/Step15_1.jpg)
+   Left: ![Step15_1_left](images/Step15_1_left.jpg)
+   Right: ![Step15_1_right](images/Step15_1_right.jpg)
+   Completed: ![Step15_1](images/Step15_1.jpg)
 2. Turn to the front side and, as shown, fasten 2 truss-head machine screws at the upper left and right positions.  
    *(Torque: 6 kgf-cm / upper-lower limit: 5.8~6.2 kgf-cm)*  
    ![Step15_2](images/Step15_2.jpg)
