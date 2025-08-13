@@ -32,8 +32,11 @@
 2. (1) Insert the 28P flat cable with the copper foil side facing the slot contacts. (2) Route the sensor wires (blue, green, purple) into the left-side groove as indicated by the arrow.
    ![Step3_2](images/Step3_2.jpg)
 3. (1) Further route the sensor wires (blue, green, purple) into the long rib column. (2) Align the paper guide plate with the left and right positioning holes on the mechanism, then press down, ensuring not to pinch the sensor wires.  
+   
    Left: ![Step3_3_left](images/Step3_3_left.jpg)
+
    Right: ![Step3_3_right](images/Step3_3_right.jpg)
+   
    Complete: ![Step3_3](images/Step3_3.jpg)
 
 ---
