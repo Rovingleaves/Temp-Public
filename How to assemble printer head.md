@@ -190,7 +190,17 @@
 
 1. Take the Station 15 assembly, stand it upright as shown, and fit it into the front end of the PCB metal housing. Fasten 1 countersunk screw on each lower left and right side.  
    *(Torque: 3.2 kgf-cm / upper-lower limit: 3~3.4 kgf-cm)*  
-   ![Step16_1](images/Step16_1.jpg)
+   Left: ![Step16_1_left](images/Step16_1_left.jpg)
+   Right: ![Step16_1_right](images/Step16_1_right.jpg)
+   Complted: ![Step16_1](images/Step16_1.jpg)
 2. Rotate the mechanism assembly to the front, turn the rotary knob to open the cutter assembly, and fasten 2 small round-head screws on the left and right of the connection board to secure the mechanism to the PCB metal housing. Close the cutter assembly afterward.  
    *(Torque: 6 kgf-cm / upper-lower limit: 5.8~6.2 kgf-cm)*  
-   ![Step16_2](images/Step16_2.jpg)
+   ![Step16_2a](images/Step16_2a.jpg)
+   ![Step16_2b](images/Step16_2b.jpg)
+
+---
+
+## **Station 17**
+
+1. Plug the signal cables and the flat cables into their corresponding slots on the control board.
+![Step17_1](images/Step17_1.jpg)
