@@ -106,9 +106,11 @@
    ![Step9_1](images/Step9_1.jpg)
 2. Peel off the protective film from the Mylar sheet.  
    ![Step9_2](images/Step9_2.jpg)
-3. Attach the paper exit cover from back to front onto the cutter frame, aligning the left and right grooves. Press both ends evenly, then fasten 1 truss-head screw at the bottom front.  
+3. Attach the paper exit cover from back to front onto the cutter frame, aligning the left and right grooves. (1) Press both ends evenly, (2) then fasten 1 truss-head screw at the bottom front.  
    *(Torque: 6 kgf-cm / upper-lower limit: 5.8~6.2 kgf-cm)*  
-   ![Step9_3](images/Step9_3.jpg)
+   Left: ![Step9_3_left](images/Step9_3_left.jpg)
+   Right ![Step9_3_right](images/Step9_3_right.jpg)
+   Completed: ![Step9_3](images/Step9_3.jpg)
 
 ---
 
