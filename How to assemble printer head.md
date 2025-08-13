@@ -93,7 +93,10 @@
    ![Step8_2](images/Step8_2.jpg)
 3. Fasten 2 screws on the left and right sides of the assembly.  
    *(Torque: 3.2 kgf-cm / upper-lower limit: 3~3.4 kgf-cm)*  
-   ![Step8_3](images/Step8_3.jpg)
+   Left: ![Step8_3_left](images/Step8_3_left.jpg)
+   Right: ![Step8_3_right](images/Step8_3_right.jpg)
+   Complete: ![Step8_3](images/Step8_3.jpg)
+
 
 ---
 
