@@ -118,7 +118,9 @@
 
 1. Take the Station 9 assembly and align the mechanism paper feed roller assembly with the positioning points. Fasten with 2 truss-head screws.  
    *(Torque: 6 kgf-cm / upper-lower limit: 5.8~6.2 kgf-cm)*  
-   ![Step10_1](images/Step10_1.jpg)
+   ![Step10_1a](images/Step10_1a.jpg)
+   ![Step10_1b](images/Step10_1b.jpg)
+   ![Step10_1c](images/Step10_1c.jpg)
 
 ---
 
