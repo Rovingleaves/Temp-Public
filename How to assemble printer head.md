@@ -127,9 +127,12 @@
 ## **Station 11**
 
 1. Take the Station 10 assembly and, as indicated, press the roller downward to lock it onto the mechanism roller latch on the Station 6 assembly.  
-   ![Step11_1](images/Step11_1.jpg)
-2. Insert the cutter shaft through the cutter frame and mechanism mounting bracket. At the left and right cutter shaft grooves, attach E-clips using an auxiliary tool.  
-   ![Step11_2](images/Step11_2.jpg)
+   ![Step11_1a](images/Step11_1a.jpg)
+   ![Step11_1b](images/Step11_1b.jpg)
+2. Insert the cutter shaft through the cutter frame and mechanism mounting bracket. At the left and right cutter shaft grooves, attach E-clips using an auxiliary tool.
+   Left: ![Step11_2_left](images/Step11_2_left.jpg)
+   Right: ![Step11_2_Right](images/Step11_2_right.jpg)
+   Completed: ![Step11_2](images/Step11_2.jpg)
 
 ---
 
@@ -141,7 +144,9 @@
    ![Step12_2](images/Step12_2.jpg)
 3. Turn the mechanism rotary knob to open the cutter assembly, then fasten 2 small round-head screws onto the mechanism assembly. Close the cutter assembly afterward.  
    *(Torque: 6 kgf-cm / upper-lower limit: 5.8~6.2 kgf-cm)*  
-   ![Step12_3](images/Step12_3.jpg)
+   ![Step12_3a](images/Step12_3a.jpg)
+   ![Step12_3b](images/Step12_3b.jpg)
+   ![Step12_3c](images/Step12_3c.jpg)
 
 ---
 
