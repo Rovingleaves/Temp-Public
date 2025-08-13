@@ -80,7 +80,7 @@
    ![Step7_1](images/Step7_1.jpg)
 2. Route the sensor cable over the variable resistor and screw hole, along the frame edge to the lower left corner.  
    ![Step7_2](images/Step7_2.jpg)
-3. Using 2–3 cm cotton tape, secure the sensor cable to the right-angle edge of the bracket as shown.  
+3. Using 2–3 cm cotton tape, secure the sensor cable to the right-angle of the bracket as shown.  
    ![Step7_3](images/Step7_3.jpg)
 
 ---
